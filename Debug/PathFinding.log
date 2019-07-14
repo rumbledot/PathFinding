@@ -1,0 +1,4 @@
+﻿  PathFinding.cpp
+D:\Personal  Projects\VIS STUDIO\PathFinding\PathFinding\PathFinding.cpp(4,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Personal  Projects\VIS STUDIO\PathFinding\PathFinding\PathFinding.cpp(88,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  PathFinding.vcxproj -> D:\Personal  Projects\VIS STUDIO\PathFinding\Debug\PathFinding.exe
